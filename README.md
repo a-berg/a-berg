@@ -2,7 +2,6 @@
 
 I'm Adrian, and I am an engineer from Spain 🇪🇸.
 I currently work at [CiTiUS](https://citius.usc.es/) in machine learning for applications in industrial processes. 
-My current line of work is focused in feature selection.
 
 Always enjoy a good problem. Trying to learn as much computer science and math as my brain is capable of 🧠.
 

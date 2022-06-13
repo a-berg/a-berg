@@ -1,7 +1,7 @@
 ### Hello, world
 
 I'm Adrian, and I am an engineer from Spain 🇪🇸.
-I currently work at [CiTiUS](https://citius.usc.es/) in machine learning for applications in industrial processes. 
+I currently work at [Gradiant](https://gradiant.org/) doing machine learning for applications in industrial processes. 
 
 Always enjoy a good problem.
 

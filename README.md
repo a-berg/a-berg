@@ -11,7 +11,7 @@ My name is Adrian and I am a 🇪🇸 Spanish engineer currently employed at [Gr
 * 🤖 AI
 * 🔧 MLOps
 
-In my free time, apart of typical leisures (spending time with friends, family, or doing sports) I like to learn about new tools and languages, 
+In my free time, apart from typical leisures (spending time with friends, family, or doing sports) I like to learn about new tools and languages, 
 and deepen my understanding of computing. As such, I have done some MOOCs/self-learning on:
 
 * [Bayesian Deep Learning](https://www.coursera.org/account/accomplishments/verify/QEN52ACA8BBE)
@@ -19,6 +19,8 @@ and deepen my understanding of computing. As such, I have done some MOOCs/self-l
 * Learning Haskell
 * Reading through the fantastic SICP (have to continue it, though!)
 * Other libraries or tools (look pinned repos)
+
+Cheers!
 
 <!-- You can find me at:
 <p align='center'>

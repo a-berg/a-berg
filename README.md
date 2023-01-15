@@ -16,7 +16,7 @@ and deepen my understanding of computing. As such, I have done some MOOCs/self-l
 
 * [Bayesian Deep Learning](https://www.coursera.org/account/accomplishments/verify/QEN52ACA8BBE)
 * [MLOps with Tensorflow](https://www.coursera.org/account/accomplishments/specialization/QL6R7TW9DMT3)
-* Learning Haskell
+* [Learning Haskell](https://haskell.mooc.fi/part1#standard-type-classes)
 * Reading through the fantastic SICP (have to continue it, though!)
 * Other libraries or tools (look pinned repos)
 

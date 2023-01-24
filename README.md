@@ -23,8 +23,3 @@ and deepen my understanding of computing. As such, I have done some MOOCs/self-l
 * Other libraries or tools (look pinned repos)
 
 Cheers!
-
-<!-- You can find me at:
-<p align='center'>
-<a href="https://www.linkedin.com/in/adrianberges/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</p> -->

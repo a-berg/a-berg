@@ -7,7 +7,7 @@
 </p>
 
 
-My name is Adrian and I am a 🇪🇸 Spanish engineer currently employed at [Keepler](https://keepler.io/), where I specialize in machine learning for industrial processes, doing:
+My name is Adrian and I am a 🇪🇸 Spanish engineer currently employed at [Keepler](https://keepler.io/), where I work on stuff such as:
 
 * 📊 Prescriptive systems
 * 🤖 AI
